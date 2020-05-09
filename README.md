@@ -7,6 +7,7 @@
 
 ## rodar servidor direto
 `php artisan serve`
+`php artisan serve --host 192.168.1.101 --port 80`
 
 ## ver lista de rotas
 `php artisan route:list`
